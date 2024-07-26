@@ -1,4 +1,8 @@
 Hello World from git 
 Esta es una prueba 
 en Github
+<<<<<<< HEAD
 feature 1
+=======
+Cambio multiple ramas
+>>>>>>> feature1
